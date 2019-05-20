@@ -2,11 +2,13 @@
 
 다음 세가지에 대해 진행
 
-+ face_data
++ face_data(simple CNN baseline)
 훈련 결과가 명확하지 않음
+low accuracy
 
-+ mnist
++ mnist(NN baseline)
 단순한 Siamese NN인데 정확도가 매우 높음
+high accuracy
 
 + face_data(vgg_baseline)
 같은 pair에 대해서는 정확도가 높음 그렇지만 다른 같은 class인데 다른 사진인 경우 조금 낮음
